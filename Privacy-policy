@@ -1,0 +1,74 @@
+# Privacy Policy
+
+**Effective Date:** July 10, 2025  
+**App Name:** ApiaryAI  
+**Developer:** Daniel Najda Pty Ltd  
+**Contact:** danielnajda@danielnajda.com
+
+This Privacy Policy describes how ApiaryAI ("we", "us", or "our") collects, uses, and protects your information when you use our mobile application.
+
+---
+
+## 1. Information We Collect
+
+We collect the following types of information:
+- **Location Data:** To tag apiary sites and hive locations.
+- **Media Access:** Photos and audio recordings stored locally or in cloud storage.
+- **Account Information:** We collect login credentials for authentication purposes.
+- **Analytics:** We use Google Analytics to understand how users interact with the app.
+- **Device Information:** Basic metadata like device type and OS for bug reporting and analytics.
+
+---
+
+## 2. How We Use Your Information
+
+We use the information we collect to:
+- Store inspection records and related media
+- Track apiary site locations
+- Authenticate user access to the app
+- Improve app performance and stability
+- Analyze feature usage and user behavior for improvements
+
+---
+
+## 3. Data Sharing
+
+We do **not sell** or rent your personal data.  
+We only share data with trusted service providers used to operate and maintain the app:
+- **Firebase** (data storage & authentication)
+- **RevenueCat** (purchase processing)
+- **Google Analytics** (anonymous usage tracking)
+
+---
+
+## 4. Data Storage & Security
+
+We store your data securely using Firebase and encrypted transmission protocols.  
+However, no system is 100% secure. You are responsible for exporting or backing up your own inspection data regularly.
+
+---
+
+## 5. Your Rights
+
+You may:
+- Request to access or delete your account and associated data
+- Opt out of analytics tracking (device-level)
+- Contact us at danielnajda@danielnajda.com with any privacy-related concerns
+
+---
+
+## 6. Changes to This Policy
+
+We may update this Privacy Policy at any time. Changes will be posted within the app or on our official GitHub policy page.
+
+---
+
+## 7. Contact
+
+For questions, email us at:  
+📧 **danielnajda@danielnajda.com**
+
+---
+
+*Daniel Najda Pty Ltd*  
+Australia
